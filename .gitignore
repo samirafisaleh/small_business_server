@@ -1,0 +1,8 @@
+
+# Directories
+env/
+server/logs/
+__pycache__/
+
+# Files
+.DS_Store

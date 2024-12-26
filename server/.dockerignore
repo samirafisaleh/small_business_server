@@ -1,0 +1,6 @@
+
+server/logs
+server/node_modules
+server/test
+server/dev_test.sh
+server/package-lock.json
